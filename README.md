@@ -13,5 +13,5 @@ Project contains two main pages:
 
 ## ScreenShots
 
-![screenshot1](https://github.com/Amberon-voldi/flutter_video_downloader/blob/main/screenshots/Screenshot_1663110749.png)
-![screenshot2](https://github.com/Amberon-voldi/flutter_video_downloader/blob/main/screenshots/Screenshot_1663110753.png)
+![screenshot1](https://github.com/Amberon-voldi/flutter_video_downloader/blob/main/screenshots/Screenshot_1663110749.png) ![screenshot2](https://github.com/Amberon-voldi/flutter_video_downloader/blob/main/screenshots/Screenshot_1663110753.png)
+
