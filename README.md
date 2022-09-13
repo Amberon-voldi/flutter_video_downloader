@@ -1,15 +1,15 @@
-# videodownloader
+# Flutter Video Downloader UI
 
-A new Flutter project.
+UI Modal for a Video Downloader App Build with Flutter.
 
-## Getting Started
+## 
 
-This project is a starting point for a Flutter application.
+This project is just a UI Modal. It doesn't have any functions.
 
-A few resources to get you started if this is your first Flutter project:
+Project contains two main pages:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Home
+- Downloads
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
